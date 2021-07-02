@@ -1,5 +1,3 @@
-# Corazon_Shirt
-
 # Corazon Shirt
 A shirt that can read the wearer’s ECG, SpO2, heart rate and is able to notify a family member in case of emergency. It can sense a partial heart blockage, a forthcoming myocardial infarction (heart attack), low oxygen saturation and low heart rate.
 # Working
